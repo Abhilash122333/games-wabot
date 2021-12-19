@@ -40,8 +40,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Instagram: https://www.instagram.com/bpdabhilashkar5/?hl=en
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
